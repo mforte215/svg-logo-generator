@@ -1,0 +1,15 @@
+{
+  "name": "svg_generator",
+  "version": "1.0.0",
+  "description": "A package to help generate a simple SVG file",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Mark Forte",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.7.0"
+  }
+}
