@@ -19,11 +19,11 @@ The application can be cloned from GitHub here: https://github.com/mforte215/svg
 
 ## Usage
 
-The program is indeeded to help faciliate the creation of a SVG logo with three letters. The program stores a series of questions it then prompts the user to answer. It then saves the responses and writes them to a file using the built-in Node module, FS (File System).
+The program is intended to help faciliate the creation of a SVG logo with three letters. The program stores a series of questions it then prompts the user to answer. It then saves the responses and writes them to a file using the built-in Node module, FS (File System).
 
 A Link to the GitHub Repo: https://github.com/mforte215/svg-logo-generator
 
-A video demostration of the command line application:
+A video demostration of the command line application: https://drive.google.com/file/d/1TCoRoZ-hxm43FIqaNkEkYDzUli8jAZte/view
 
 ## License
 
@@ -35,7 +35,7 @@ Mark Forte
 
 ## Tests
 
-N/A
+![Screenshot of sucessful tests](./assets/images/test_success.png)
 
 ## Questions
 
